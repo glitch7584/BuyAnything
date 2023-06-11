@@ -88,11 +88,7 @@
             </div>  
                     <div class="col-md-4 mb-2"> 
                     <div class="card">
-<<<<<<< HEAD
-  <img src="imgs/dress.jpg" class="card-img-top" alt="...">
-=======
   <img src="./imgs/dress.jpg" class="card-img-top" alt="...">
->>>>>>> 10a1e86447e1ebe4c24ae1199c089532ad922e00
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
