@@ -75,42 +75,106 @@
             <div class="col-md-10">
                 <!-- Products -->
                 <div class="row">
-                    <div class="col-md-4"> 
+                    <div class="col-md-4 mb-2"> 
                     <div class="card">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="./imgs/dress1.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">Buy now</a>
+     </div>
 </div>
-                    </div>  
-                    <div class="col-md-4"> 
+            </div>  
+                    <div class="col-md-4 mb-2"> 
                     <div class="card">
+<<<<<<< HEAD
   <img src="imgs/dress.jpg" class="card-img-top" alt="...">
+=======
+  <img src="./imgs/dress.jpg" class="card-img-top" alt="...">
+>>>>>>> 10a1e86447e1ebe4c24ae1199c089532ad922e00
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">Buy now</a>
+     </div>
 </div>
-                    </div>
-                    <div class="col-md-4"> 
+            </div>    
+                    <div class="col-md-4 mb-2"> 
                     <div class="card">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="./imgs/dress6.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">Buy now</a>
+     </div>
+</div>
+            </div>      
+                    <div class="col-md-4 mb-2"> 
+                    <div class="card">
+  <img src="./imgs/dress7.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">Buy now</a>
   </div>
 </div>
-                    </div>
-                </div>
+        </div>
+                    <div class="col-md-4 mb-2"> 
+                    <div class="card">
+  <img src="./imgs/dress8.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">Buy now</a>
+  </div>
+</div>
+        </div>
+                    <div class="col-md-4 mb-2"> 
+                    <div class="card">
+  <img src="./imgs/dress9.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">Buy now</a>
+  </div>
+</div>
+        </div>
+
+        <div class="col-md-4 mb-2"> 
+                    <div class="card">
+  <img src="./imgs/dress5.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">Buy now</a>
+  </div>
+</div>
+        </div>
+                    <div class="col-md-4 mb-2"> 
+                    <div class="card">
+  <img src="./imgs/dress3.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">Buy now</a>
+  </div>
+</div>
+        </div>
+                  
+         </div>
 
             </div>
             <div class="col-md-2">
                 <!-- sidenav -->
-                <h2>Hii</h2>
+               
             </div>
         </div>
         <!-- last child -->
