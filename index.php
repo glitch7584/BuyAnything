@@ -19,7 +19,7 @@
         <!-- first child -->
         <nav class="navbar navbar-expand-lg bg-custom">
             <div class="container-fluid">
-                <img src="imgs/sb.png" alt="Logo"class="logo">
+                <img src="imgs/sb.png" alt="Logo" class="logo">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -52,6 +52,22 @@
                 </div>
             </div>
         </nav>
+        <!-- 2nd child -->
+        <nav class="navbar navbar-expand-lg bg-secendary">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Welcome Guest</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">login</a>
+                </li>
+            </ul>
+        </nav>
+        <!-- 3rd child -->
+        <div class="bg-light">
+            <h3 class="text-center">BuyAnything</h3>
+            <p class="text-center">a marketplace for all your desires</p>
+        </div>
         <!-- last child -->
         <!-- <div class="footer p-3 text-center">
             <p>footrt</p>
