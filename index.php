@@ -75,208 +75,6 @@
             <div class="col-md-10">
                 <!-- Products -->
                 <div class="row">
-<<<<<<< HEAD
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress1.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-     </div>
-</div>
-            </div>  
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-     </div>
-</div>
-            </div>    
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/jeans1.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-     </div>
-</div>
-            </div>      
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress7.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div>
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/jeans3.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div>
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/lahenga.jpeg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div>
-
-        <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/jeans2.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div>
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress3.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/jeans.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress4.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/lah2.jpeg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress8.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-        <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/lah3.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/jeans4.jpeg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress5.jpeg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/lah1.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-                    <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress9.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-        <div class="col-md-4 mb-2"> 
-                    <div class="card">
-  <img src="./imgs/dress10.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-info">Add to cart</a>
-    <a href="#" class="btn btn-secondary">Buy now</a>
-  </div>
-</div>
-        </div> 
-        </div>
-=======
                     <div class="col-md-4 mb-2">
                         <div class="card">
                             <img src="imgs/dress1.jpg" class="card-img-top" alt="...">
@@ -477,59 +275,10 @@
                         </div>
                     </div>
                 </div>
->>>>>>> 4b93c47df1a94915ad4cf1285c0d3f0888e165a3
-
             </div>
             <div class="col-md-2 bg-secondary p-0">
                 <ul class="navbar-nav me-auto text-center">
                     <li class="nav-item bg-info">
-<<<<<<< HEAD
-                    <a href="#" class="nav-link text-light"><h5>All Brands</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Brand1</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Brand2</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Brand3</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Brand4</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Brand5</h5></a>
-                    </li>
-                </ul>
-                
-                <ul class="navbar-nav me-auto text-center">
-                    <li class="nav-item bg-info">
-                    <a href="#" class="nav-link text-light"><h5>Categories</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Category1</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Category2</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Category3</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Category4</h5></a>
-                    </li>
-                    <li class="nav-item">
-                    <a href="#" class="nav-link text-light"><h5>Category5</h5></a>
-                    </li>
-                </ul>
-                
-               
-            </div>
-        </div>
-        <!-- last child -->
-     <div class="footer p-3 text-center">
-=======
                         <a href="#" class="nav-link text-light">
                             <h5>All Brands</h5>
                         </a>
@@ -560,7 +309,6 @@
                         </a>
                     </li>
                 </ul>
-
                 <ul class="navbar-nav me-auto text-center">
                     <li class="nav-item bg-info">
                         <a href="#" class="nav-link text-light">
@@ -593,13 +341,10 @@
                         </a>
                     </li>
                 </ul>
-
-
             </div>
         </div>
         <!-- last child -->
         <div class="footer p-3 text-center">
->>>>>>> 4b93c47df1a94915ad4cf1285c0d3f0888e165a3
             <p>footer</p>
         </div>
     </div>
