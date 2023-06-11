@@ -68,6 +68,51 @@
             <h3 class="text-center">BuyAnything</h3>
             <p class="text-center">a marketplace for all your desires</p>
         </div>
+
+
+        <!-- 4th child -->
+        <div class="row">
+            <div class="col-md-10">
+                <!-- Products -->
+                <div class="row">
+                    <div class="col-md-4"> 
+                    <div class="card">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+                    </div>  
+                    <div class="col-md-4"> 
+                    <div class="card">
+  <img src="./images/dress.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+                    </div>
+                    <div class="col-md-4"> 
+                    <div class="card">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-2">
+                <!-- sidenav -->
+                <h2>Hii</h2>
+            </div>
+        </div>
         <!-- last child -->
         <!-- <div class="footer p-3 text-center">
             <p>footrt</p>
