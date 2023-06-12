@@ -14,6 +14,7 @@
 </head>
 
 <body>
+    <!-- arkadipta 11/6 11:11am-->
     <!-- <h1>Hello, world!</h1> -->
     <div class="container-fluid p-0">
         <!-- first child -->
@@ -68,8 +69,9 @@
             <h3 class="text-center">BuyAnything</h3>
             <p class="text-center">a marketplace for all your desires</p>
         </div>
+        <!-- arkadipta 11/6 12:50pm-->
 
-
+        <!-- shahina 11/6 -->
         <!-- 4th child -->
         <div class="row">
             <div class="col-md-10">
@@ -347,6 +349,7 @@
         <div class="footer p-3 text-center">
             <p>footer</p>
         </div>
+        <!-- shahina 11/6 -->
     </div>
     <!-- bootstrap js link -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
