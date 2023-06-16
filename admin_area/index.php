@@ -10,6 +10,9 @@
     <!-- ../ is used to access any elemrnt outside this folder -->
     <!-- css -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
     <style>
         .admin_image {
             width: 100px;
@@ -57,13 +60,14 @@
                         <p class="text-light text-center p-0"> Admin name</p>
                     </a>
                 </div>
+                
                 <div class="">
                     <div class="button text-center m-1">
                         <button class="my-3"><a href="" class="nav-link text-light bg-info my-1">Insert Products</a></button>
                         <button class="my-3"><a href="" class="nav-link text-light bg-info my-1">view Products</a></button>
-                        <button class="my-3"><a href="" class="nav-link text-light bg-info my-1">Insert Catagories</a></button>
+                        <button class="my-3"><a href="index.php?insert_category" class="nav-link text-light bg-info my-1">Insert Catagories</a></button>
                         <button class="my-3"><a href="" class="nav-link text-light bg-info my-1">View Catagories</a></button>
-                        <button class="my-3"><a href="" class="nav-link text-light bg-info my-1">Insert Brands</a></button>
+                        <button class="my-3"><a href="index.php?insert_brand" class="nav-link text-light bg-info my-1">Insert Brands</a></button>
                         <button class="my-3"><a href="" class="nav-link text-light bg-info my-1">View Brands</a></button>
                         <button class="my-3"><a href="" class="nav-link text-light bg-info my-1">All Orders</a></button>
                         <button class="my-3"><a href="" class="nav-link text-light bg-info my-1">All Payments</a></button>
@@ -74,6 +78,19 @@
             </div>
         </div>
     </div>
+    <!-- Soumi 13/6 -->
+    <!-- fourth child -->
+    <div class="container my-5">
+        <?php
+            if(isset($_GET['insert_category'])){
+                include('insert_categories.php');
+            }
+            if(isset($_GET['insert_brand'])){
+                include('insert_brands.php');
+            }
+        ?>
+    </div>
+    
     <div class="footer p-3 text-center footer">
         <p>footer</p>
     </div>
